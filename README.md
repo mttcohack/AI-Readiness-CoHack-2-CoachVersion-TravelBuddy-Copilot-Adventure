@@ -1,4 +1,4 @@
-# MTT CoHack Challenge : [Topic Name]
+# MTT CoHack Challenge : AI Readiness Team: CoHack #2: Coach Version: TravelBuddy Copilot Adventure
 
 ## Introduction
 
